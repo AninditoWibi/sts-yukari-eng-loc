@@ -1,0 +1,216 @@
+﻿{
+
+	"PositivematterPower": {
+
+		"NAME": "Ruination",
+
+		"DESCRIPTIONS": ["Each time you inflict #yLifesap, deal additional #yLifesap damage equal to (initial #yLifesap amount x #b","). #yRuination is reset to 0 at the end of your turn."]
+
+	},
+
+	"AntimatterPower":{
+
+		"NAME": "Genesis",
+
+		"DESCRIPTIONS": ["Whenever you gain Block from playing a card, gain additional Block equal to (initial Block amount x #b","). #yGenesis is reset to 0 at the end of your turn."]
+
+	},
+
+	"MemoryfragmentsPower_purpleEX": {
+
+		"NAME": "Painful Memories",
+
+		"DESCRIPTIONS": ["Special debuff from acquiring a 'memory piece'. Increases damage taken by 5% x #b", "."]
+	},
+
+	"DMGremovePower": {
+
+		"NAME": "Attack Drain",
+
+		"DESCRIPTIONS": ["The next #b"," instance(s) of damage you take will be negated and stored."]
+
+	},
+
+	"DMGreturnPower": {
+
+		"NAME": "Stored Force",
+
+		"DESCRIPTIONS": ["Stored #b"," offset damage from a triggered #yAttack #yDrain."]
+	},
+
+	"RealmPower": {
+
+		"NAME": "Realm",
+
+		"DESCRIPTIONS": ["You currently have #b"," stack(s) of #yRealm (max: 5).","Certain cards require #yRealm to play or trigger its extra effects. At the end of each combat, heal 1 HP for each stack of #yRealm remaining."]
+	},
+
+	"NextturnCardPower": {
+
+		"NAME": "Preparing Unleash Force...",
+
+		"DESCRIPTIONS": ["At the start of your next turn, add #b"," Unleash Force to your hand."]
+	},
+
+	"AntimatterCLOCK": {
+
+		"NAME": "Anti-Genesis",
+
+		"DESCRIPTIONS": ["Conditions that trigger usage of Genesis will not work."]
+	},
+
+	"Ookami_KakushiPower": {
+
+		"NAME": "Okami-kakushi",
+
+		"DESCRIPTIONS": ["Whenever #yLifesap is inflicted against this creature, it takes additional #yLifesap equal to the amount of Okami-kakushi stacks. Okami-kakushi is reduced by 1 whenever this effect is triggered."]
+	},
+
+	"PositiveMatterAntimatterUniverse_Power": {
+
+		"NAME": "Matter and Antimatter",
+
+		"DESCRIPTIONS":["Whenever you play a non-Attack card, apply #b"," #yLifesap to a random enemy."]
+	},
+
+	"WatchEyeChangePower": {
+
+		"NAME": "Unchanged Eyes",
+
+		"DESCRIPTIONS":["Whenever you deal damage to an enemy, inflict additional #yLifesap on that enemy equal to 50% of the damage dealt. Lasts for #b"," turns."]
+	},
+
+	"BaitToxicabitPower": {
+
+		"NAME": "Caustic Bait",
+
+		"DESCRIPTIONS":["Whenever you are attacked this turn, apply #b"," #yPoison and 2 #yVulnerable to the attacker."]
+	},
+
+	"FourBoundaryPower": {
+
+		"NAME": "The Four Boundaries",
+
+		"DESCRIPTIONS":["Gain #b"," #yBlock at the end of your turn, multiplied by the amount of unique buffs applied to you on that turn."]
+	},
+
+	"PerpetualMotionMachine": {
+
+		"NAME": "Perpetual Motion Machine",
+
+		"DESCRIPTIONS":["At the end of your turn, if the last card you played is a Skill, apply "," #yOkami-kakushi to all enemies."]
+	},
+
+	"CommonSenseAntiCommonSensePower": {
+
+		"NAME": "Realm of Common Sense",
+
+		"DESCRIPTIONS":["Whenever you play two cards of differing card types in a row (e.g. Skill after Attack), gain #b"," #yRealm."]
+	},
+
+	"FragmentationRealmPower": {
+
+		"NAME": "Fragmented Realms",
+
+		"DESCRIPTIONS":["When combat has finished,you can choose what you want in the room（Only works for one time）"]
+	},
+
+	"TwoAndThreeElementRealmPower": {
+
+		"NAME": "Second-Third Element",
+
+		"DESCRIPTIONS":["All HP damage you receive this turn will be healed at the start of your next turn."]
+	},
+
+	"HpHealinNextTurn": {
+
+		"NAME": "Next Turn Recovery",
+
+		"DESCRIPTIONS":["Restore #b"," HP at the start of your next turn."]
+	},
+
+	"WangLiang_OokamiKakushi_Power": {
+
+		"NAME": "Yukari's Hidden Monstrosity",
+
+			"DESCRIPTIONS":["The next #b"," instance(s) of non-#yLifesap damage that this creature takes will cause it to lose 5% of its maximum HP."]
+
+	},
+
+	"DoubleDeathButterflyPower": {
+
+		"NAME":"Double Death Butterfly",
+
+		"DESCRIPTIONS":["Raise your maximum #yRealm stacks to 10. If you have more than 5 #yRealm, gain ","."]
+	},
+
+	"Human_Monster_RealmPower": {
+
+		"NAME":"Boundary of Humanity and Monstrosity",
+
+		"DESCRIPTIONS":["Your next #b"," cards will be played twice."]
+	},
+
+	"ContainerChangePower": {
+
+		"NAME":"Container Shifting",
+
+		"DESCRIPTIONS":["At the end of your turn, #yRuination and #yGenesis will no longer be reset to 0."]
+	},
+
+	"UniverseChoicePower": {
+
+		"NAME": "Lifethread",
+
+		"DESCRIPTIONS":["If you are about to receive lethal damage, your HP will be set to 1 instead. If this is triggered, at the start of your next turn, recover #b","% HP and remove this power."]
+	},
+
+	"ProofOfUnderstandingPower": {
+
+		"NAME": "Proof of Omniscience",
+
+		"DESCRIPTIONS":["Okami-kakushi stacks on any enemy are no longer reduced upon being triggered by #yLifesap."]
+	},
+
+	"UndeadAttractedbythetowerPower": {
+
+		"NAME": "Bewitched Undead",
+
+		"DESCRIPTIONS":["After taking unblocked attack damage 4 times, this creature takes additional damage equal to 5% of its maximum HP. Whenever you play 6 Attack cards, you will take 10 damage. You currently have played #b"," Attack cards."]
+	},
+
+	"ForceddeathEXPower": {
+
+		"NAME": "Undead's Defense",
+
+		"DESCRIPTIONS":["All incoming unblocked damage dealt to this creature is reduced by 10% x #b",". If this buff reaches 10 stacks, remove all stacks of this buff."]
+	},
+
+	"PriceofRealmPowerPurpleEX": {
+
+		"NAME": "The Price of a Realm",
+
+		"DESCRIPTIONS":["Every time you draw a card, lose #b"," HP. Removed at the end of your turn."]
+	},
+
+	"ComputingthefuturePowerpurpleEX": {
+
+		"NAME": "Future Computation",
+
+		"DESCRIPTIONS":["At the end of your turn, if you have 20 or more cards in your draw pile, #yScry #b","."]
+	},
+
+	"BoundaryofExterminationPowerpurpleEX": {
+
+		"NAME": "Boundary Extermination",
+
+		"DESCRIPTIONS":["At the end of your turn, if you have 20 or more cards in your draw pile, inflict #yLifesap on an enemy equal to #b","% of your maximum HP."]
+	},
+
+	"LoveAcrossDimensionsPower": {
+
+		"NAME": "Love Across Dimensions",
+
+		"DESCRIPTIONS":["You may no longer gain #yGenesis and #yRuination stacks. At the start of your turn, gain 2 Strength. Whenever you have 5 Realm stacks, they are automatically converted to Metallicize. The first card played each turn will be played twice."]
+	}
+}

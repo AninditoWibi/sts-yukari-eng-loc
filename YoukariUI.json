@@ -1,0 +1,25 @@
+{
+  "LoveAcrossDimensionsAction_purple": {
+    "TEXT": [
+      "Become 0-cost. Gain Ethereal and Exhaust."
+    ]
+  },
+  "OmniscientAndOmnipotentMonsterAction": {
+    "TEXT": [
+      "Move to draw pile."
+    ]
+  },
+  "RewardEnumPuepleEX": {
+    "TEXT": [
+      "Upgrade all cards in your deck",
+      "Heal to full HP",
+      "Remove all curses from your deck",
+      "Obtain a special card"
+    ]
+  },
+  "MakecardtoDrawPileBottomAction": {
+    "TEXT": [
+      "Move to the bottom of your draw pile."
+    ]
+  }
+}

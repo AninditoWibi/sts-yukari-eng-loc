@@ -1,0 +1,18 @@
+BaseMod.addKeyword(new String[]{"Ruination", "ruination"}, "Each time you inflict Lifesap, deal additional Lifesap damage equal to (initial Lifesap amount x current stacks of Ruination). Ruination is reset to 0 at the end of your turn.");
+            BaseMod.addKeyword(new String[]{"Genesis", "genesis"}, "Whenever you gain Block from playing a card, gain additional Block equal to (initial Block amount x current stacks of Genesis). Genesis is reset to 0 at the end of your turn.");
+            BaseMod.addKeyword(new String[]{"Realm", "realm"}, "Represents your control over boundaries (max: 5 stacks). Certain cards require Realm to play or trigger its extra effects. At the end of each combat, heal 1 HP for each stack of Realm remaining.");
+            BaseMod.addKeyword(new String[]{"Lifesap", "lifesap"}, "A special type of damage that is instantly inflicted, bypasses the target's Block, and cannot be countered.");
+            BaseMod.addKeyword(new String[]{"Attack Drain", "attack drain"}, "The next instance of damage you take will be negated and stored.");
+            BaseMod.addKeyword(new String[]{"Stored Force", "stored force"}, "Stored offset damage from a triggered Attack Drain.");
+            BaseMod.addKeyword(new String[]{"Unleash Force", "unleash force"}, "0-cost Attack card whose damage depends on the amount of Stored Force you have.");
+            BaseMod.addKeyword(new String[]{"Okami-kakushi", "okami-kakushi"}, "Whenever Lifesap is inflicted against this creature, it takes additional Lifesap equal to the amount of Okami-kakushi stacks. Okami-kakushi is reduced by 1 whenever this effect is triggered.");
+            BaseMod.addKeyword(new String[]{"Stored Force", "stored force"}, "Stored offset damage from a triggered Attack Drain.");
+            BaseMod.addKeyword(new String[]{"Bomb", "bomb"}, "Bomb will explode after a certain number of turns to deal damage.");
+            BaseMod.addKeyword(new String[]{"Disintegrating", "Disintegrating"}, "At the end of this creature's turn, remove 1 stack of Disintegrating. At 0 stacks, this creature will die.");
+            BaseMod.addKeyword(new String[]{"Lifethread", "lifethread"}, "If you are about to receive lethal damage, your HP will be set to 1 instead. If this is triggered, at the start of your next turn, recover some HP and remove this power.");
+            BaseMod.addKeyword(new String[]{"Timeskip", "Timeskip"}, "When you play this card, your turn will immediately end regardless of your remaining [E].");
+            BaseMod.addKeyword(new String[]{"Eliminate", "eliminate"}, "When you play this card, it will be completely removed from your master deck.");
+            BaseMod.addKeyword(new String[]{"Permanence","permanence"},"Whenever you have 5 Realm stacks, they are automatically converted to Metallicize.");
+            BaseMod.addKeyword(new String[]{"Illusions","illusions"},"The first card played each turn will be played twice.");
+            BaseMod.addKeyword(new String[]{"Card Types","card types"},"Card types consist of Attack, Skill, Power, Status, and Curse.");
+            BaseMod.addKeyword(new String[]{"Metallicize","metallicize"},"At the end of your turn, gain Block.");

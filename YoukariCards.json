@@ -1,0 +1,343 @@
+{
+  "Defend_purpleEX":{
+    "NAME":"Defend",
+    "DESCRIPTION":"Gain !B! Block."
+  },
+  "AT_purpleEX": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Observe_purple_1":{
+    "NAME":"Gap in Reality",
+    "DESCRIPTION":"Deal !D! damage. NL Inflict !M! Lifesap."
+  },
+  "Observe_purple_2":{
+    "NAME":"A Realm Created",
+    "DESCRIPTION":"Gain !B! Block. NL Gain !M! Realm."
+  },
+
+
+  "D_release_purple": {
+    "NAME":"Unleash Force",
+    "DESCRIPTION":"Deal damage equal to the amount of Stored Force you have. Remove all Stored Force. NL Retain. Exhaust."
+  },
+  "Worldmountain_purple":{
+    "NAME":"World's Apex",
+    "DESCRIPTION":"Deal !D! damage to all enemies 3 times."
+  },
+  "MeetDecomposer_purple":{
+    "NAME":"Decomposition and Recomposition",
+    "DESCRIPTION":"Gain !B! Block. NL Realm 1: Gain an additional 4 Block and draw !M! cards."
+  },
+  "Charmbait_purple":{
+    "NAME":"Bewitching Bait",
+    "DESCRIPTION":"Deal !D! damage to all enemies. NL Realm 1: Inflict 6 Lifesap and apply !M! Okami-kakushi to a random enemy."
+  },
+  "Umbrella_purple":{
+    "NAME":"Yukari's Umbrella",
+    "DESCRIPTION":"Deal !D! damage and apply !M! Okami-kakushi 3 times to a random enemy."
+  },
+  "AdvanceAttack_purple": {
+    "NAME":"Agile Torso",
+    "DESCRIPTION":"Deal !D! damage and draw 1 card. NL Next turn, gain !M! Block."
+  },
+  "RuleDissolution_purple": {
+    "NAME":"Dissolution of Rules",
+    "DESCRIPTION":"Exhaust a card in your hand. NL Draw 1 card and gain 3 Realm. NL Exhaust."
+  },
+  "ExistenceContinue_purple": {
+    "NAME":"Existence Continued",
+    "DESCRIPTION":"Deal !D! damage. NL Realm 3: If you have 0 Ruination, also gain !M! Strength."
+  },
+  "DimensionStaggered_purple": {
+    "NAME":"Dimensional Stagger",
+    "DESCRIPTION":"Gain !B! Block and !M! Realm."
+  },
+  "StateErode_purple": {
+    "NAME":"Flesh Dismantler",
+    "DESCRIPTION":"Deal !D! damage and apply !M! Okami-kakushi."
+  },
+  "Line_surface_state_purple": {
+    "NAME":"Line and Surface",
+    "DESCRIPTION":"Gain !B! Block. Each time you gain Ruination, move this card from the discard pile to your hand."
+  },
+  "SfantasyHide_purple": {
+    "NAME":"Hidden Fantasy",
+    "DESCRIPTION":"Gain !B! Block. NL Choose two cards in your hand to Retain."
+  },
+  "StateDuplicate_purple": {
+    "NAME":"Replicate Realm",
+    "DESCRIPTION":"Gain !B! Block. NL Realm 1: Choose one card in discard pile and put it on top of your draw pile."
+  },
+  "OmniscientAndOmnipotent_Monster_purple":{
+    "NAME":"Youkai's Omnipotence",
+    "DESCRIPTION":"Inflict !D! Lifesap. Lifesap inflicted by this card is doubled for every stack of Realm you have."
+  },
+  "SharpContractionReality_purple":{
+    "NAME":"Contracting Reality",
+    "DESCRIPTION":"Deal !D! damage. Realm 2: Gain 1 Genesis."
+  },
+  "Mirror_FormAndEmptin_purple":{
+    "NAME":"Mirror of Emptiness",
+    "DESCRIPTION":"If both your Ruination and Genesis is 0, gain !M! Realm and draw a card."
+  },
+  "Shallow_ocean_purpleEX": {
+    "NAME":"Oceanic Boundary",
+    "DESCRIPTION":"Inflict Lifesap on all enemies equal to half the amount of cards in your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION":"Inflict Lifesap on all enemies equal to half the amount of cards in your draw pile."
+  },
+  "Realm_recovery_purpleEX": {
+    "NAME":"Dimensional Recall",
+    "DESCRIPTION":"Play a card from the bottom of your draw pile, targeting a random enemy, and Exhaust it."
+  },
+
+
+
+
+  "WeekHit_purple":{
+    "NAME":"Enfeebling Blow",
+    "DESCRIPTION":"Deal !D! damage. NL Realm 1: Apply !M! Weak and Vulnerable."
+  },
+  "MNeedle_purple": {
+    "NAME":"Devil's Needles",
+    "DESCRIPTION":"Deal !D! damage. NL Realm 3: Remove a random buff from the target (excluding Intangible). NL If this effect removes Strength, gain Strength equal to the amount removed."
+  },
+  "PurpleNeedle_purple":{
+    "NAME":"Purple Needle",
+    "DESCRIPTION":"Deal !D! damage. If the enemy has 15 or less HP and has no debuffs, set their HP to 0."
+  },
+  "OpenedBox_purple":{
+    "NAME":"Pandora's Box",
+    "DESCRIPTION":"Apply !M! Okami-kakushi and 2 Weak."
+  },
+  "ButterflyHiddenTemple_purple":{
+    "NAME":"Hidden Temple's Butterfly",
+    "DESCRIPTION":"Gain !B! Block. Realm 3: If you have 0 Genesis, also gain !M! Dexterity."
+  },
+  "PositiveMatter_Antimatter_Universe_purple":{
+    "NAME":"Material Universe",
+    "DESCRIPTION":"Whenever you play a non-Attack card, inflict 3 Lifesap to a random enemy."
+  },
+  "EighthInstrument_OneDividesIntoTwo_purple":{
+    "NAME":"Divisor Blade",
+    "DESCRIPTION":"Deal !D! damage. NL Damage dealt is increased by !M! times the amount of Okami-kakushi on the enemy."
+  },
+  "WatchEChange_purple": {
+    "NAME":"Eyes of Change",
+    "DESCRIPTION":"Whenever you deal damage to an enemy, inflict additional Lifesap on that enemy equal to 50% of the damage dealt."
+  },
+  "WingOfChimera_purple":{
+    "NAME":"Chimera Wings",
+    "DESCRIPTION":"Gain !B! Block. NL Realm 3: Gain !M! Thorns."
+  },
+  "RuptureOfTimeAndSpace_purple": {
+    "NAME":"Space-time Seam",
+    "DESCRIPTION":"Apply X Vulnerable to the target and reduce their Strength by X, where X is the amount of Realm stacks you have. NL Exhaust.",
+    "UPGRADE_DESCRIPTION":"Apply X+3 Vulnerable to the target and reduce their Strength by X+3, where X is the amount of Realm stacks you have. NL Exhaust."
+  },
+  "Anti_communist_purple": {
+    "NAME":"Anti-common Sense",
+    "DESCRIPTION":"Gain !B! Block. NL Add 4 to all stackable debuffs on the enemy (e.g. Weak or Poison).",
+    "UPGRADE_DESCRIPTION":"Gain !B! Block. NL Double all stackable debuffs on the enemy (e.g. Weak or Poison). NL Exhaust."
+  },
+  "StretchesForeverDream_purple":{
+    "NAME":"Eternal Dreams",
+    "DESCRIPTION":"Gain !B! Block. NL Realm 2: Gain 1 Ruination."
+  },
+  "Photoelasticity_Doppler_Effect_purple":{
+    "NAME":"Doppler Effect",
+    "DESCRIPTION":"Inflict !D! Lifesap X times. NL Apply X Poison."
+  },
+  "Bait_Toxicbait_purple":{
+    "NAME":"Caustic Bait",
+    "DESCRIPTION":"Gain !B! Block. Whenever you are attacked this turn, apply !M! Poison and 2 Vulnerable to the attacker."
+  },
+  "Bait_HighSpeedFlying_purple":{
+    "NAME":"Supersonic Bait",
+    "DESCRIPTION":"Deal !D! damage and apply !M! Okami-kakushi to all enemies."
+  },
+  "Nest_LightFlightworm_purple":{
+    "NAME":"Aerial Swarm",
+    "DESCRIPTION":"Deal !D! damage and gain !B! Block. NL If you have 0 Ruination, inflict !M! Lifesap to the target. NL If your Genesis is 0, gain an additional !M! Block."
+  },
+  "Mirror_FourBoundary_purple":{
+    "NAME":"The Four Boundaries",
+    "DESCRIPTION":"Gain !M! Block at the end of your turn, multiplied by the amount of unique buffs applied to you on that turn.",
+    "UPGRADE_DESCRIPTION":" Innate. NL Gain !M! Block at the end of your turn, multiplied by the amount of unique buffs applied to you on that turn."
+  },
+  "Boundary_ObjectiveBoundary_purple":{
+    "NAME":"Objective Boundary",
+    "DESCRIPTION":"Convert all Realm stacks to Plated Armor.",
+    "UPGRADE_DESCRIPTION": "Convert all Realm stacks to Plated Armor. NL Gain 3 Plated Armor."
+  },
+  "ExternalForce_HighSpeedFlying_purple":{
+    "NAME":"Supersonic External Force",
+    "DESCRIPTION":"Deal !D! damage to all enemies. NL Reduce this card's cost by 1 each time you gain Realm while this card is in your hand. NL Retain."
+  },
+  "Fantasy_PerpetualMotionMachine_purple":{
+    "NAME":"Perpetual Motion Machine",
+    "DESCRIPTION":"At the end of your turn, if the last card you played is a Skill, apply !M! Okami-kakushi to all enemies."
+  },
+  "Boundary_DreamRealityDamnation_purple":{
+    "NAME":"Reality and Fantasy",
+    "DESCRIPTION":"Unplayable. NL At end of your turn, deal !D! damage to all enemies. NL Increase this card's damage by !M! each time you gain Realm while this card is in your hand."
+  },
+  "Boundary_DynamicStaticEquilibrium_purple":{
+    "NAME":"Dynamic-Static Equilibrium",
+    "DESCRIPTION":"Target an enemy. If the target has at least 5 Okami-kakushi, remove 5 stacks of Okami-kakushi and gain [E]. NL Realm 2: Draw !M! cards"
+  },
+  "Boundary_LightAndDark_purple":{
+    "NAME":"Light and Dark",
+    "DESCRIPTION":"Exhaust !M! cards in your hand and gain buffs based on the type of the card. NL Power: Gain 2 Realm. NL Status: Gain 2 Metallicize. NL Curse: Gain 1 Artifact."
+  },
+  "ButterflyHabitatTemple_purple":{
+    "NAME":"Butterfly's Departure",
+    "DESCRIPTION":"Gain !B! Block. NL Choose a card from the discard pile and add it to your hand.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Choose 2 cards from the discard pile and add them to your hand."
+  },
+  "Mirror_Drifter_purple":{
+    "NAME":"Spilled Drifts",
+    "DESCRIPTION":"Deal !D! damage. NL If Fatal, gain !M! Gold.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage. NL If Fatal, gain !M! Gold."
+  },
+  "Yakumo_Ran_purple":{
+    "NAME":"Shikigami - Ran Yakumo",
+    "DESCRIPTION":"Gain !B! Block. NL If you have no Realm stacks, gain [E] and draw 2 additional cards next turn."
+  },
+  "MetroBOOM_purple":{
+    "NAME":"Exploding Train Car",
+    "DESCRIPTION":"Realm 2: Gain !M! Blur. NL If this card is Exhausted, gain 3 Bomb, which will deal !D! damage."
+  },
+  "Mirror_WaveAndshot":{
+    "NAME":"Wave and Shot",
+    "DESCRIPTION":"Choose !M! cards from your discard pile to move to your hand. NL If your Realm isn't 0, discard !M! cards."
+  },
+  "RealityDreamConfluencek_purple":{
+    "NAME":"Intersecting Reality and Dreams",
+    "DESCRIPTION":"Add 2 random cards to the bottom of your draw pile. NL Realm 2: Add 4 cards instead.",
+    "UPGRADE_DESCRIPTION":"Add 2 random upgraded cards to the bottom of your draw pile. NL Realm 2: Add 4 upgraded cards instead."
+  },
+  "DistantPastFriend_purple":{
+    "NAME":"Acquaintance From the Past",
+    "DESCRIPTION":"At the start of your turn, gain !M! Plated Armor. NL Ethereal."
+  },
+  "DarkRealmRedLine_purple":{
+    "NAME":"Red Thread of Darkness",
+    "DESCRIPTION":"Deal !D! damage. NL Realm 3 :Heal !M! HP; NL Exhaust "
+  },
+  "CommonSense_AntiCommonSense_purple":{
+    "NAME":"Realm of Common Sense",
+    "DESCRIPTION":"During your turn, whenever you play two cards of differing card types in a row (e.g. Skill after Attack), gain !M! Realm."
+  },
+  "WorldDissolvedintheRealm_purple":{
+    "NAME":"Dissolved World",
+    "DESCRIPTION":"Inflict !D! Lifesap to all enemies. NL Realm 2: If both your Ruination and Genesis is 0, increase the amount of Lifesap inflicted by 2."
+  },
+  "Erosivefilter_purple": {
+    "NAME":"Erosive Filter",
+    "DESCRIPTION":"Gain !B! Block. NL Realm 3: Remove a random debuff from yourself."
+  },
+  "Extrememeaning_purpleEX": {
+    "NAME":"Extreme Meaning",
+    "DESCRIPTION":"Put two cards at the bottom of the draw pile into your hand. Discard any Skill cards retrieved this way. NL Realm 2: Draw 2 cards."
+  },
+  "Boundary_of_Extermination_purpleEX": {
+    "NAME":"Boundary Extermination",
+    "DESCRIPTION":"At the end of your turn, if you have 20 or more cards in your draw pile, inflict Lifesap on an enemy equal to !M!% of your maximum HP."
+  },
+
+
+  "Fancifulhole_purple":{
+    "NAME":"Fanciful Hole",
+    "DESCRIPTION":"Inflict !D! Lifesap. NL Realm 2: If the enemy intends to attack, inflict !D! Lifesap again, multiplied by the amount of hits the enemy intends to do."
+  },
+  "Know_ledgeAbilityRealm_purple":{
+    "NAME":"Knowledge of Realms",
+    "DESCRIPTION":"Inflict !D! Lifesap, multiplied by 3 x the amount of Okami-kakushi on the enemy. NL If this kills the enemy, draw 2 cards and gain [E].",
+    "UPGRADE_DESCRIPTION":"Inflict !D! Lifesap, multiplied by 3 x the amount of Okami-kakushi on the enemy. NL If this kills the enemy, draw 2 cards and gain [E][E]. NL Retain."
+  },
+  "LoveAcrossDimensions_purple":{
+    "NAME":"Love Across Dimensions",
+    "DESCRIPTION":"You may no longer gain Genesis and Ruination stacks. NL At the start of your turn, gain 2 Strength. Gain Permanence and Illusions. NL Ethereal.",
+    "UPGRADE_DESCRIPTION":"You may no longer gain Genesis and Ruination stacks. NL At the start of your turn, gain 2 Strength. Gain Permanence and Illusions. NL Ethereal."
+  },
+  "Mirror_TwoAndThreeElementRealm_purple":{
+    "NAME":"Second-Third Element",
+    "DESCRIPTION":"Unplayable. Innate. NL Next turn, heal HP equal to the damage received on this turn. NL When you draw this card, Exhaust.",
+    "UPGRADE_DESCRIPTION":"Unplayable. Innate. NL Next turn, heal HP equal to the damage received on this turn. NL When you draw this card, draw a card, then Exhaust."
+  },
+  "WangLiang_LineAndCurveDreams_purple":{
+    "NAME":"Curved and Straight Dream",
+    "DESCRIPTION":"Gain 2 Artifact. NL Realm 3: Exhaust all Status and Curse cards in your hand, draw pile, and discard pile.",
+    "UPGRADE_DESCRIPTION":"Gain 2 Artifact. NL Realm 3: Exhaust all Status and Curse cards in your hand, draw pile, and discard pile. NL Retain."
+  },
+  "WangLiang_OokamiKakushi_purple":{
+    "NAME":"Hidden Monstrosity",
+    "DESCRIPTION":"Realm 2: Target a non-minion enemy. Deal damage equal to !D!% of the target's current HP. NL Inflict a debuff that causes the target to lose 5% of their maximum HP each time they are attacked, triggering up to 4 times. NL Retain. NL Exhaust."
+  },
+  "Monsters_DoubleDeathButterfly_purple": {
+    "NAME":"Double Death Butterfly",
+    "DESCRIPTION":"Raise your maximum Realm stacks to 10. If you have more than 5 Realm, gain [E] each time the amount of Realm decreases.",
+    "UPGRADE_DESCRIPTION":"Raise your maximum Realm stacks to 10. If you have more than 5 Realm, gain [E][E] each time the amount of Realm decreases."
+  },
+  "MagicEyes_LaplaceDemon_purple":{
+    "NAME":"Laplace's' Magic Eyes",
+    "DESCRIPTION":"Shuffle a random card into your draw pile for every Attack card currently present in your draw pile. NL Realm 3: Scry !M!. NL Exhaust.",
+    "UPGRADE_DESCRIPTION":"Shuffle a random upgraded card into your draw pile for every Attack card currently present in your draw pile. NL Realm 3: Scry !M!. NL Exhaust."
+  },
+  "Boundary_LifeAndDeath_purple": {
+    "NAME": "Boundary of Life and Death",
+    "DESCRIPTION": "Draw !M! cards. NL Realm 4: Gain [E][E]. NL Exhaust."
+  },
+  "WasteWire_Metro_purple":{
+    "NAME":"Journey to the Station",
+    "DESCRIPTION":"Deal damage to all enemies equal to !M! times the number of unique buffs on you.",
+    "UPGRADE_DESCRIPTION":"Deal damage to all enemies equal to !M! times the number of unique buffs on you. NL Retain."
+  },
+  "Human_Monster_Realm_purple": {
+    "NAME":"Human and Monster",
+    "DESCRIPTION":"This turn, the next card you play will be played twice. NL Exhaust.",
+    "UPGRADE_DESCRIPTION":"This turn, the next card you play will be played twice. NL Exhaust."
+  },
+  "BarrageBoundary_PipeDream_purple": {
+    "NAME":"Deep Barrage Boundary",
+    "DESCRIPTION":"Remove all Realm stacks. Inflict Lifesap equal to !M! times the amount of Realm stacks removed this way."
+  },
+  "D_absorption_purple": {
+    "NAME":"Attack Drain",
+    "DESCRIPTION":"Genesis cannot be used up this turn. Gain Attack Drain. At the start of your next turn, add an Unleash Force to your hand."
+  },
+  "ContainerChange_purple":{
+    "NAME":"Container Shift",
+    "DESCRIPTION":"Ruination and Genesis stacks will no longer be reset to 0 at the end of your turn.",
+    "UPGRADE_DESCRIPTION":"Innate. NL Ruination and Genesis stacks will no longer be reset to 0 at the end of your turn."
+  },
+  "UniverseChoice_purple":{
+    "NAME":"The Universe's Chosen One",
+    "DESCRIPTION":"Retain. NL Realm 5: Gain Lifethread, healing 30% of your maximum HP if it is triggered. NL Timeskip. NL Eliminate.",
+    "UPGRADE_DESCRIPTION":"Retain. NL Realm 5: Gain Lifethread, healing 40% of your maximum HP if it is triggered. NL Timeskip. NL Eliminate."
+  },
+  "ProofOfUnderstanding_purple":{
+    "NAME":"Proof of Omniscience",
+    "DESCRIPTION":"Okami-kakushi stacks on any enemy are no longer reduced upon being triggered by Lifesap.",
+    "UPGRADE_DESCRIPTION":"Innate. NL Okami-kakushi stacks on any enemy are no longer reduced upon being triggered by Lifesap."
+ },
+  "Theboundaryofcreation_purpleEX": {
+    "NAME":"Boundary of Creation",
+    "DESCRIPTION":"Choose 1 of 3 random cards to add into your hand. Move a card from your hand to the bottom of your draw pile.",
+    "UPGRADE_DESCRIPTION":"Choose 1 of 3 random cards to add into your hand. Move a card from your hand to the bottom of your draw pile and upgrade it."
+  },
+  "GluttonyofRealm_purpleEX": {
+    "NAME":"Realm Eater",
+    "DESCRIPTION":"Inflict !D! Lifesap. If Fatal, gain !M! maximum HP. NL Exhaust."
+  },
+  "Price_of_realm_purpleEX": {
+    "NAME":"The Price of a Realm",
+    "DESCRIPTION":"Realm 3: Draw cards until you have !M! cards in your hand. NL Thereafter, lose 2 HP for every card you draw this turn.",
+    "UPGRADE_DESCRIPTION":"Realm 3: Draw cards until you have !M! cards in your hand. NL Thereafter, lose 2 HP for every card you draw this turn."
+  },
+  "Computing_the_future_purpleEX": {
+    "NAME":"Calculate the Future",
+    "DESCRIPTION":"At the end of your turn, if you have 20 or more cards in your draw pile, Scry !M!."
+  }
+}

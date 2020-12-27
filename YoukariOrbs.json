@@ -1,0 +1,11 @@
+{
+  "AntimatterShow": {
+    "NAME": "Genesis",
+    "DESCRIPTION":["Whenever you play #b3 #bSkill cards in a turn, gain 1 #yGenesis.  #b==================== #yGenesis: Whenever you gain Block from playing a card, gain additional Block equal to (initial Block amount x current stacks of Genesis). Genesis is reset to 0 at the end of your turn. #b==================== (This is an indicator)"]
+  },
+
+  "PositivematterShow": {
+    "NAME": "Ruination",
+    "DESCRIPTION":["Whenever you play #b3 #bAttack cards in a turn, Gain 1 #yRuination  #b==================== #yRuination: Each time you inflict Lifesap, deal additional Lifesap damage equal to (initial Lifesap amount x current stacks of Ruination). Ruination is reset to 0 at the end of your turn. #b==================== (This is an indicator)"]
+  }
+}

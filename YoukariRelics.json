@@ -1,0 +1,45 @@
+﻿{
+
+	"Boundary_crack":{
+		"NAME":"Cracked Gap",
+		"FLAVOR":"The spire's evil suppresses the power of all those who would come to slay it...even a legendary youkai sage.",
+		"DESCRIPTIONS":["Whenever you play a #bPower card, gain 1 #yRealm."]
+
+	},
+
+	"Memoryfragments_purpleEX": {
+		"NAME":"Fragments of a Lost Memory",
+		"FLAVOR":"'I must save her. This time, I will...'",
+		"DESCRIPTIONS":["Whenever you defeat an elite, gain a 'memory piece', increasing this relic's counter by 1 (max: 4). Whenever you gain a 'memory piece', lose #b30% of your current HP. If this relic's counter is at least #b1, at the start of each combat, gain a debuff that increases damage taken.  If this relic's counter is at least #b2，draw up to #b2 more cards at the start of each turn."]
+	},
+
+	"Antimatter_spacedebris": {
+		"NAME":"Antimatter Debris",
+		"FLAVOR":"Shards of formed antimatter from an unknown origin. Their latent energies seem to counteract the Spire's suppressive aura.",
+		"DESCRIPTIONS":["Whenever you play a #bPower card, apply #b3 #yOkami-kakushi to a random enemy."]
+	},
+
+	"Parasol_purpleEX": {
+		"NAME":"Sage's Parasol",
+		"FLAVOR":"A parasol with an exquisite design. Comes in handy for a leisurely stroll.",
+		"DESCRIPTIONS":["Each time you gain #yRuination or #yGenesis，gain 1 more."]
+	},
+
+	"Seventeenyearold_girl_Forever": {
+		"NAME":"Psyche of the Ageless Girl",
+		"FLAVOR":"'I am 17 years old. Always.'",
+		"DESCRIPTIONS":["If you finished a combat with the maximum amount of #yRealm stacks, gain 2 maximum HP."]
+	},
+
+	"ThegodofHakurei_purpleEX": {
+		"NAME":"Hakurei God's Sigil",
+		"FLAVOR":"An emblem that represents the heretofore unknown deity overlooking the Hakurei shrine. You recall receiving it from certain friend, a shrine maiden...",
+		"DESCRIPTIONS":["Each time the amount of #yRealm stacks you have decreases, apply #b3 #yOkami-kakushi to all enemies."]
+	},
+
+	"TheEssenceOfRealm": {
+		"NAME": "The Essence of Realms",
+		"FLAVOR":"The very essence of existence itself, upon which the fundamental laws of nature are formed. Without it, reality itself will collapse into primal chaos.",
+		"DESCRIPTIONS":["At the end of your turn, if you have 0 #yRealm stacks, gain Block equal to the amount of cards in your discard pile, then shuffle your discard pile into your draw pile."]
+	}
+}

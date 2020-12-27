@@ -1,0 +1,132 @@
+{
+  "BigFisheventEX": {
+    "NAME": "Big Fish",
+    "DESCRIPTIONS": [
+      "As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox floating about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet cackling from above as you approach the objects. NL What do you do?",
+      "You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
+      "You eat the #ydonut. It really hits the spot! Your Max HP increases.",
+      "",
+      "You get the feeling that the box contains something important to you. Using your powers to manipulate boundaries, you manage to slip the contents of the box into your possession. NL Your guess was right - it turned out the box contained a piece of your lost memory...",
+      "You grab the box. Inside you find a relic!",
+      " NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret."
+    ],
+    "OPTIONS": [
+      "[Banana]  #gHeal  #g",
+      " #gHP.",
+      "[Donuts] #gMax HP #g+",
+      " #g.",
+      "[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+      "[Special: Box] #gMemory piece +1 #g",
+      "[Leave]"
+    ]
+  },
+
+  "TheEndpurpleEX": {
+    "NAME": "The End of the Line",
+    "DESCRIPTIONS": [
+      "As you travel through the Spire, you feel a terrible chill upon your spine - as if there is ~#bsomeone~ breathing down on you. NL This presence...it feels like someone you are familiar with...someone you will never forget. NL A faint image of the presence appears in your mind. You suspect that #bshe is responsible for this feeling, but you still have doubts as to whether it is truly her or merely a cruel trick by the Spire...",
+      "You immediately turn and run in the direction of the abhorrent chill, eventually seeing a ~levitating~ female figure with #rpink hair in the distance. NL As you approach her，she turns around to face you, revealing that ~there~ ~is~ ~no~ ~light~ ~in~ ~her~ ~eyes!~ It's as if she is a puppet, controlled by something or someone else...",
+      "Suddenly， #y~a~ #y~giant~ #y~folding~ #y~fan~ #y~springs~ #y~up~. NL Your intuition tells you that something wicked is coming this way...",
+      "You decide to walk away from the source of the chill. Yet as you take your steps, you feel a ~profound~ emotion coming from your heart. It's as if you have just #rabandoned a dear friend to a ~fate~ ~worse~ ~than~ ~death~. NL You suddenly drop to your knees, sobbing quietly in sheer #r~regret...~",
+      "Having subdued #rher, you channel a burst of your power to send #rher back to her - no, ~our~ home...Gensokyo. Soon, the form of her body #b~gradually~ #b~faded~ into nothingness. NL You feel as though #ba #bponderous #bburden has been lifted from your heart. However, even though you have achieved your personal quest, there is still one more thing you need to attend to...namely, to deal with #rthe #rmaster #rof #rthe #rSpire. NL You press onward, feeling your full power returning...",
+      "You believe the risk is far too great, and thus decide to leave.",
+      "For the first time in what seemed like forever, you fell down, having been defeated by #rher. In what seemed to be a gesture of mercy, however, she disappeared without finishing you off. NL You find yourself with something that has ~changed...~"
+    ],
+    "OPTIONS": [
+      "[Follow the breath] Required: At least #g4 memory pieces",
+      " #rFight #ra #rspecial #rBoss.",
+      "[Leave] #rBecome #rCursed #r- #rRegret.",
+      "[This. Ends. NOW.]  #rBegin #combat —— ",
+      "[Obtain reward]",
+      "[Locked] Required: At least #g4 memory pieces",
+      "[Continue]",
+      "[Leave]",
+      "[Follow the breath] #rTake #rdamage equal to #g20% of your Max HP",
+      "[Locked] Required: Current HP > 20% of Max HP",
+      "[ #rBegin #combat ]"
+    ]
+  },
+
+  "KnowingSkulleventEX": {
+    "NAME": "Knowing Skull",
+    "DESCRIPTIONS": [
+      "You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you. NL Your knowledge as a youkai sage lets you intuit that this is skull a weak monster, sustaining its lowly life by eating the essence of humans. NL NL \" #g@YOU!@ #g@YOU@ #g@DON'T@ #g@BELONG@ #g@IN@ #g@THIS@ #g@WORLD!@\" NL The now-flaming skull seems especially #rscared.  \"WHO ARE YOU? WHAT'S #bTHE #bPURPOSE OF COMING HERE? \"",
+      "After stating your intent and your motives for coming to the Spire, the skulll seems to #bcalm #bdown. NL NL \"Do you seek #rthe #rghastly #rspirit #rof #rdeath?\" NL \"She has left the City and gone further into the Spire.\"",
+      "\"If you still need me, I will help you as much as I can. There are costs, of course...though, I know better to try to take the life force of a legendary sage.\"",
+      "Having taken what you feel is necessary from the skull, you leave the chamber through a rip in space-time.",
+      "After rejecting its help, you leave the chamber through a rip in space-time."
+    ],
+    "OPTIONS": [
+      "[Where is she?] Obtain information on #gher #glocation.",
+      "[I see]",
+      "[Essence of life] Spend #g150 Gold to gain #b10 MAXHP",
+      "[Ancient objects] Spend #g200 Gold to gain a #bRandom #bRelic ",
+      "[I don't need it]",
+      "[Locked] Need at least 150 Gold.",
+      "[Locked] Need at least 200 Gold.",
+      "[Leave]"
+    ]
+  },
+
+  "ForgottenAltareventEX": {
+    "NAME": "Forgotten Altar",
+    "DESCRIPTIONS": [
+      "In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. You sense a ~ghastly~ aura trailing off the statue, which you take as a sign that #rshe has been here. NL She calls out to you, demanding sacrifice.",
+      "As you set the idol onto the altar, a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
+      "You stand on the altar and cut your wrists. NL As the #rblood spills out in sacrifice, the arms of the statue reach out and close around your eyes. NL Everything goes dark. NL You wake up a short time later feeling a new potential surging through you.",
+      "You sense something within the statue that you think would help you get one step closer to #rher. NL Conjuring a small bit of your powers, you ~crush~ the statue. A #bmemory #bpiece emerges from its scattered shards.",
+      "After some further observation, you concluded that you can't get any useful information from the statue, so you leave."
+    ],
+    "OPTIONS": [
+      "[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+      "[Locked] Requires: Golden Idol.",
+      "[Sacrifice] #gGain #g",
+      " #gMax #gHP. #rLose #r",
+      " #rHP.",
+      "[Locked] Requires: Humanity.",
+      "[Crush] #gMemory piece +1 #g",
+      "[Check]",
+      "[Leave]"
+    ]
+  },
+
+  "TheLibraryeventEX": {
+    "NAME": "The Library",
+    "DESCRIPTIONS": [
+      "You come across an ornate building which appears abandoned. NL A plaque that has been torn free from a wall is on the floor. It reads, #b\"THE #bLIBRARY\". NL Inside, you find countless rows of scrolls, manuscripts, and books. NL You think it might be helpful for you to know the world through these books, so you pick up one and sit comfortably on the sofa for a long time.",
+      "After browsing the library for a while, you can't help but be disappointed, because you find that these books don't help you much to understand the Spire. NL You decide to rest in a spacious part of the library.",
+      "The story is about an insect-controlling teenage girl who aspires to become a hero. The book is filled with creative uses of powers, combat strategies, and varying perspectives. NL Satisfying.",
+      "The story is about a man who journeyed beyond the stars and found himself stuck on a desolate foreign planet. Ingenuity, luck, perseverance, and humor to retain his sanity were his tools to return home. NL Fascinating.",
+      "The story takes place in a giant isolated building underground as the outside conditions have become unbearable. The novel is mired with conspiracies, propaganda, and injustice. You ponder if similar dynamics are at play within the Spire. NL Thinking on the book's plot, you scoff. You believe that the conflict between humans it depicted is not very interesting."
+    ],
+    "OPTIONS": [
+      "[Read] #gChoose #g1 #gof #g20 #gcards #gto #gadd #gto #gyour #gdeck.",
+      "[Rest] #gHeal #g",
+      " #gHP.",
+      "[Leave]",
+      "Add a card to your deck."
+    ]
+  },
+
+  "FaceTrader": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue, which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL While he touches your face, you begin to feel your life drain out of it! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! Amidst all the screaming and shattering, you escape. NL NL His face was completely blank.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL Before he can get any closer, you give him your darkest glare - a glare that says 'take my face and die'. The man slowly backs down, out of fear so palpable that you can feel it through his mask.",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call. You leave here with a great disdain visible on your face.",
+      "After putting a handful of gold coins into his hands, he cautiously gives you one of the masks on his person."
+    ],
+    "OPTIONS": [
+      "[Touch] #rLose #r",
+      " #gGold.",
+      "[Offer a deal] ",
+      "[Leave]",
+      "[Continue]",
+      " #rHP, #ggain #g",
+      "[Trade] Spend #g75 #gGold. #g50%: #gGood #grelic. #r50%: #rBad #rrelic.",
+      "[Locked] Need at least 75 Gold."
+    ]
+  }
+}
